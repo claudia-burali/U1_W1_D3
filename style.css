@@ -1,13 +1,25 @@
-body {font-family: "Playfair Display", serif;
+body {
+    font-family: "Lora", serif;
     font-optical-sizing: auto;
     font-weight: 500;
-    font-style: normal; margin-left: 30%; margin-right: 30%;}
-.bold {font-family: "Playfair Display", serif;
+    font-style: normal;
+    text-align: center;
+    margin: auto; width: 50%;
+  }
+.main { text-align: left;}
+.bold {
+    font-family: "Lora", serif;
     font-optical-sizing: auto;
     font-weight: 700;
-    font-style: normal;}
-.orange {color: chocolate;}
-.grey {color: dimgray;}
-.blue {color: rgb(39, 129, 122);}
-h2 {text-decoration-line: underline;}
-#logo {align-self: center;}
+    font-style: normal;
+  }
+#logo {width: 13em; margin:0.5rem 0}
+#orange {color: rgb(253, 127, 36);}
+#top {border-top: solid rgb(255, 236, 158); margin:0}
+#side {border-left: solid rgb(255, 236, 158); padding:7px ;}
+.bottom {border-bottom: solid rgb(220, 247, 255);}
+.background {background-color: rgb(255, 251, 235) ;}
+.grey {color: rgb(145, 145, 145); margin: 0.5em;}
+.blue {color: rgb(45, 143, 136);}
+.edge {border-radius: 1.5em; width: 100%;}
+
