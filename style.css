@@ -1,0 +1,13 @@
+body {font-family: "Playfair Display", serif;
+    font-optical-sizing: auto;
+    font-weight: 500;
+    font-style: normal; margin-left: 30%; margin-right: 30%;}
+.bold {font-family: "Playfair Display", serif;
+    font-optical-sizing: auto;
+    font-weight: 700;
+    font-style: normal;}
+.orange {color: chocolate;}
+.grey {color: dimgray;}
+.blue {color: rgb(39, 129, 122);}
+h2 {text-decoration-line: underline;}
+#logo {align-self: center;}
